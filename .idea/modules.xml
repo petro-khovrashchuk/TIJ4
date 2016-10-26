@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04 Everything Is an Object/Ch04.Exercise 01/Ch04.Exercise 01.iml" filepath="$PROJECT_DIR$/04 Everything Is an Object/Ch04.Exercise 01/Ch04.Exercise 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Everything Is an Object/Ch04.Exercise 02/Ch04.Exercise 02.iml" filepath="$PROJECT_DIR$/04 Everything Is an Object/Ch04.Exercise 02/Ch04.Exercise 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Everything Is an Object/Ch04.Exercise 08/Ch04.Exercise 08.iml" filepath="$PROJECT_DIR$/04 Everything Is an Object/Ch04.Exercise 08/Ch04.Exercise 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Everything Is an Object/Ch04.Exercise 09/Ch04.Exercise 09.iml" filepath="$PROJECT_DIR$/04 Everything Is an Object/Ch04.Exercise 09/Ch04.Exercise 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 02/Ch05.Exercise 02.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 02/Ch05.Exercise 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 03/Ch05.Exercise 03.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 03/Ch05.Exercise 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 04/Ch05.Exercise 04.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 04/Ch05.Exercise 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 05/Ch05.Exercise 05.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 05/Ch05.Exercise 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 06/Ch05.Exercise 06.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 06/Ch05.Exercise 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 07/Ch05.Exercise 07.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 07/Ch05.Exercise 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 08/Ch05.Exercise 08.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 08/Ch05.Exercise 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 09/Ch05.Exercise 09.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 09/Ch05.Exercise 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 10/Ch05.Exercise 10.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 10/Ch05.Exercise 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 11/Ch05.Exercise 11.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 11/Ch05.Exercise 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 12/Ch05.Exercise 12.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 12/Ch05.Exercise 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 13/Ch05.Exercise 13.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 13/Ch05.Exercise 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 Operators/Ch05.Exercise 14/Ch05.Exercise 14.iml" filepath="$PROJECT_DIR$/05 Operators/Ch05.Exercise 14/Ch05.Exercise 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 01/Ch06.Exercise 01.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 01/Ch06.Exercise 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 02/Ch06.Exercise 02.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 02/Ch06.Exercise 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 03/Ch06.Exercise 03.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 03/Ch06.Exercise 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 04/Ch06.Exercise 04.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 04/Ch06.Exercise 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 05/Ch06.Exercise 05.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 05/Ch06.Exercise 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 06/Ch06.Exercise 06.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 06/Ch06.Exercise 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 07/Ch06.Exercise 07.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 07/Ch06.Exercise 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 08/Ch06.Exercise 08.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 08/Ch06.Exercise 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 09/Ch06.Exercise 09.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 09/Ch06.Exercise 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 10/Ch06.Exercise 10.iml" filepath="$PROJECT_DIR$/06 Controlling Execution/Ch06.Exercise 10/Ch06.Exercise 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 01/Ch07.Exercise 01.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 01/Ch07.Exercise 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 02/Ch07.Exercise 02.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 02/Ch07.Exercise 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 03/Ch07.Exercise 03.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 03/Ch07.Exercise 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 04/Ch07.Exercise 04.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 04/Ch07.Exercise 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 05/Ch07.Exercise 05.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 05/Ch07.Exercise 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 06/Ch07.Exercise 06.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 06/Ch07.Exercise 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 07/Ch07.Exercise 07.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 07/Ch07.Exercise 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 08/Ch07.Exercise 08.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 08/Ch07.Exercise 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 09/Ch07.Exercise 09.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 09/Ch07.Exercise 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 10/Ch07.Exercise 10.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 10/Ch07.Exercise 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 11/Ch07.Exercise 11.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 11/Ch07.Exercise 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 12/Ch07.Exercise 12.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 12/Ch07.Exercise 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 13/Ch07.Exercise 13.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 13/Ch07.Exercise 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 14/Ch07.Exercise 14.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 14/Ch07.Exercise 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 15/Ch07.Exercise 15.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 15/Ch07.Exercise 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 16/Ch07.Exercise 16.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 16/Ch07.Exercise 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 17/Ch07.Exercise 17.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 17/Ch07.Exercise 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 18/Ch07.Exercise 18.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 18/Ch07.Exercise 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 19/Ch07.Exercise 19.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 19/Ch07.Exercise 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 20/Ch07.Exercise 20.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 20/Ch07.Exercise 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 21/Ch07.Exercise 21.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 21/Ch07.Exercise 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 22/Ch07.Exercise 22.iml" filepath="$PROJECT_DIR$/07 Initialization &amp; Cleanup/Ch07.Exercise 22/Ch07.Exercise 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Access Control/Ch08.Exercise 01/Ch08.Exercise 01.iml" filepath="$PROJECT_DIR$/08 Access Control/Ch08.Exercise 01/Ch08.Exercise 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Access Control/Ch08.Exercise 02/Ch08.Exercise 02.iml" filepath="$PROJECT_DIR$/08 Access Control/Ch08.Exercise 02/Ch08.Exercise 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Access Control/Ch08.Exercise 03/Ch08.Exercise 03.iml" filepath="$PROJECT_DIR$/08 Access Control/Ch08.Exercise 03/Ch08.Exercise 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Access Control/Ch08.Exercise 04/Ch08.Exercise 04.iml" filepath="$PROJECT_DIR$/08 Access Control/Ch08.Exercise 04/Ch08.Exercise 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Access Control/Ch08.Exercise 05/Ch08.Exercise 05.iml" filepath="$PROJECT_DIR$/08 Access Control/Ch08.Exercise 05/Ch08.Exercise 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Access Control/Ch08.Exercise 06/Ch08.Exercise 06.iml" filepath="$PROJECT_DIR$/08 Access Control/Ch08.Exercise 06/Ch08.Exercise 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Access Control/Ch08.Exercise 07/Ch08.Exercise 07.iml" filepath="$PROJECT_DIR$/08 Access Control/Ch08.Exercise 07/Ch08.Exercise 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Access Control/Ch08.Exercise 08/Ch08.Exercise 08.iml" filepath="$PROJECT_DIR$/08 Access Control/Ch08.Exercise 08/Ch08.Exercise 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 01/Ch09.Exercise 01.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 01/Ch09.Exercise 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 02/Ch09.Exercise 02.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 02/Ch09.Exercise 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 03/Ch09.Exercise 03.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 03/Ch09.Exercise 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 04/Ch09.Exercise 04.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 04/Ch09.Exercise 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 05/Ch09.Exercise 05.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 05/Ch09.Exercise 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 06/Ch09.Exercise 06.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 06/Ch09.Exercise 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 07/Ch09.Exercise 07.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 07/Ch09.Exercise 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 08/Ch09.Exercise 08.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 08/Ch09.Exercise 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 09/Ch09.Exercise 09.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 09/Ch09.Exercise 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 10/Ch09.Exercise 10.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 10/Ch09.Exercise 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 11/Ch09.Exercise 11.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 11/Ch09.Exercise 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 12/Ch09.Exercise 12.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 12/Ch09.Exercise 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 13/Ch09.Exercise 13.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 13/Ch09.Exercise 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 14/Ch09.Exercise 14.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 14/Ch09.Exercise 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 15/Ch09.Exercise 15.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 15/Ch09.Exercise 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 16/Ch09.Exercise 16.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 16/Ch09.Exercise 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 17/Ch09.Exercise 17.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 17/Ch09.Exercise 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 18/Ch09.Exercise 18.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 18/Ch09.Exercise 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 19/Ch09.Exercise 19.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 19/Ch09.Exercise 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 20/Ch09.Exercise 20.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 20/Ch09.Exercise 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 21/Ch09.Exercise 21.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 21/Ch09.Exercise 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 22/Ch09.Exercise 22.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 22/Ch09.Exercise 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 23/Ch09.Exercise 23.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 23/Ch09.Exercise 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 24/Ch09.Exercise 24.iml" filepath="$PROJECT_DIR$/09 Reusing Classes/Ch09.Exercise 24/Ch09.Exercise 24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 01/Ch10.Exercise 01.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 01/Ch10.Exercise 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 02/Ch10.Exercise 02.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 02/Ch10.Exercise 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 03/Ch10.Exercise 03.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 03/Ch10.Exercise 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 04/Ch10.Exercise 04.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 04/Ch10.Exercise 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 05/Ch10.Exercise 05.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 05/Ch10.Exercise 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 06/Ch10.Exercise 06.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 06/Ch10.Exercise 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 07/Ch10.Exercise 07.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 07/Ch10.Exercise 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 08/Ch10.Exercise 08.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 08/Ch10.Exercise 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 09/Ch10.Exercise 09.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 09/Ch10.Exercise 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 10/Ch10.Exercise 10.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 10/Ch10.Exercise 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 11/Ch10.Exercise 11.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 11/Ch10.Exercise 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 12/Ch10.Exercise 12.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 12/Ch10.Exercise 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 13/Ch10.Exercise 13.iml" filepath="$PROJECT_DIR$/10 Polymorphism/Ch10.Exercise 13/Ch10.Exercise 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TIJ4.iml" filepath="$PROJECT_DIR$/TIJ4.iml" />
+    </modules>
+  </component>
+</project>
