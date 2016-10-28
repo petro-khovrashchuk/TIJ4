@@ -1,12 +1,10 @@
-//:Initialization&Cleanup Ex.9
-
 import static net.mindview.util.Print.*;
 
 /**
  * Exercise 9: (1) Create a class with two (overloaded) constructors. Using this, call the second constructor inside the
  * first one.
  *
- * Created by Petr on 14/02/2016.
+ * Created by Petro Khovrashchuk on 14/02/2016.
  */
 
 public class ClassWithTwoOverloadedConstructors {

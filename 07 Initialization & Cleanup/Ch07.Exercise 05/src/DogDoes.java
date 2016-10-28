@@ -6,18 +6,19 @@ import static net.mindview.util.Print.*;
  * on various primitive data types, and print different types of barking, howling, etc., depending on which overloaded
  * version is called. Write a main( ) that calls all the different versions.
  *
- * Created by Petr on 11/02/2016.
+ * Created by Petro Khovrashchuk on 11/02/2016.
  */
 
 class Dog {
     int typeNum; // Variable that defines which Primitive Type bark will be called with
     Random num = new Random();
-    Dog() { // Default Constructor which randomly choose value for Variable typeNum;
+    Dog() { // Default Constructor which randomly chooses value for Variable typeNum;
         typeNum = num.nextInt(6);
         typeDefineAndCallBark(typeNum);
     }
     Dog(int inNum) { // Constructor, argument defines value for Variable typeNum
-        typeNum = (inNum - ((inNum/10)*10))%7; // Arithmetic operations are used to produce any value in range [0-6]
+        typeNum = (inNum - ((inNum/10)*10))%7; /* Arithmetic operations are used to produce from any value of inNum
+                                                * value in range [0-6] */
         typeDefineAndCallBark(typeNum);
     }
 
@@ -35,8 +36,8 @@ class Dog {
         }
     }
 
-    void bark(char typeNum) { /* Overloaded Method which dependently of which Primitive Type of Argument is called
-                               * with printout different message */
+    void bark(char typeNum) { /* Overloaded Method which dependently of which Primitive Type of Argument it's called
+                               * with printouts different message */
         print("barking\n");
     }
     void bark(byte typeNum) {
@@ -58,12 +59,11 @@ class Dog {
         print("hiccuping\n");
     }
 
-    int goThroughAllStuffThisDogDoes() { /* Method which Call all versions of Method bark except the version it has
+    int goThroughAllStuffThisDogDoes() { /* Method which Calls all versions of the Method bark except the version it has
                                           * been called within creation of an Object */
         for(int i = 0; i < 7; i++) {
             if (i == typeNum) continue;
-            printnb("Scruffy also does "); /* Message should be changed for other Object. Not sure how to implement
-                                            * this in code yet */
+            printnb("Scruffy also does ");
             typeDefineAndCallBark(i);
         }
         return 1;
@@ -76,7 +76,7 @@ public class DogDoes {
         Dog fluffy = new Dog(); // Say "Hello" to Fluffy
         printnb("Scruffy does ");
         Dog scruffy = new Dog(44); // Say "Hello" to Scruffy
-        print(); // To print blank line
+        print(); // To print a blank line
         scruffy.goThroughAllStuffThisDogDoes();
     }
 }

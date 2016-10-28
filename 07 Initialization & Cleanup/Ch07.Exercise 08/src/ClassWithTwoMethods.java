@@ -1,5 +1,3 @@
-//:Initialization&Cleanup Ex.8
-
 import static net.mindview.util.Print.*;
 
 /**
@@ -7,7 +5,7 @@ import static net.mindview.util.Print.*;
  * time without using this, and the second time using this—just to see it working; you should not use this form in
  * practice.
  *
- * Created by Petr on 14/02/2016.
+ * Created by Petro Khovrashchuk on 14/02/2016.
  */
 
 public class ClassWithTwoMethods {
