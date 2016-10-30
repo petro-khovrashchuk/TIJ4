@@ -1,6 +1,5 @@
 /**
- * Exercise 10: (2) Create a class with a finalize( ) method that prints a message. In main( ), create an object of your
- * class. Explain the behavior of your program.
+ * Exercise 11: (4) Modify the previous exercise so that your finalize( ) will always be called.
  *
  * Created by Petro Khovrashchuk on 14/02/2016.
  */
@@ -13,7 +12,7 @@ class ClassWithFinalizeMethodThatPrintsMessage {
 
 public class TheOneWithMainInIt {
     public static void main(String[] args) {
-        new ClassWithFinalizeMethodThatPrintsMessage(); // With Definition Method finalize() won't be executed.
+        new ClassWithFinalizeMethodThatPrintsMessage(); // With Definition the Method finalize() won't be executed.
         System.gc();
         System.runFinalization();
     }

@@ -1,10 +1,8 @@
-//:Initialization&Cleanup Ex.16
-
 /**
  * Exercise 16: (1) Create an array of String objects and assign a String to each element. Print the array by using a
  * for loop.
  *
- * Created by Petr on 16/02/2016.
+ * Created by Petro Khovrashchuk on 16/02/2016.
  */
 
 public class PrintingArrayOfStrings {

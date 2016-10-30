@@ -1,12 +1,11 @@
-//:Initialization&Cleanup Ex.14
-
 /**
  * Exercise 14: (1) Create a class with a static String field that is initialized at the point of definition, and
  * another one that is initialized by the static block. Add a static method that prints both fields and demonstrates
  * that they are both initialized before they are used.
  *
- * Created by Petr on 15/02/2016.
+ * Created by Petro Khovrashchuk on 15/02/2016.
  */
+
 class StringFromOutOfMainClass {
     static String field0 = "I'm the string which's been sent into outer space.";
 }
@@ -23,8 +22,8 @@ class DemonstrationOfTwoInitializedStaticStringFields {
 
     public static void main(String[] args) {
         printBothStaticFields();
-        //StringFromOutOfMainClass inst = new StringFromOutOfMainClass();
-        //System.out.println(inst.field0);  /* Even if Field field0 is static, because it's from outer class we need
-                                            /* create the Object of its class to gain access */
+        //System.out.println(StringFromOutOfMainClass.field0);  /* Even field0 is from outer class we can use it without
+                                                                /* creating the object. Though you need to specify its
+                                                                 * class */
     }
 }

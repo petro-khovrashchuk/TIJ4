@@ -17,5 +17,6 @@ public class ClassWithFinalizeMethodThatPrintsMessage {
         new ClassWithFinalizeMethodThatPrintsMessage(); /* Apparently program doesn't store enough of memory for Garbage
                                                          * Collector to be called. So there is no printing of message
                                                          * during execution */
+
     }
 }

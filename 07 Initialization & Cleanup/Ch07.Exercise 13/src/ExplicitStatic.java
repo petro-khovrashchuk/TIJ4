@@ -1,13 +1,11 @@
-//:Initialization&Cleanup Ex.13
+import static net.mindview.util.Print.*;
 
 /**
  * Exercise 13: (1) Verify the statements in the previous paragraph. (Page 131)
  *
- * Created by Petr on 15/02/2016.
+ * Created by Petro Khovrashchuk on 15/02/2016.
  */
 
-// Explicit static initialization with the "static" clause.
-import static net.mindview.util.Print.*;
 class Cup {
     Cup(int marker) {
         print("Cup(" + marker + ")");
@@ -20,7 +18,7 @@ class Cups {
     static Cup cup1;
     static Cup cup2;
 
-    static {
+    static { // Explicit static initialization with the "static" clause.
         cup1 = new Cup(1);
         cup2 = new Cup(2);
     }
