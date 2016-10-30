@@ -14,5 +14,4 @@ public class ObjectsForArray {
     public static void main (String[] args) {
         ObjectsForArray[] insArr = new ObjectsForArray[10];
     }
-
 }

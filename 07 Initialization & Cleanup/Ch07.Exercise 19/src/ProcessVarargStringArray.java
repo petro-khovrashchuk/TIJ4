@@ -1,10 +1,8 @@
-//:Initialization&Cleanup Ex.19
-
 /**
  * Exercise 19: (2) Write a method that takes a vararg String array. Verify that you can pass either a comma-separated
  * list of Strings or a String[] into this method.
  *
- * Created by Petr on 16/02/2016.
+ * Created by Petro Khovrashchuk on 16/02/2016.
  */
 
 public class ProcessVarargStringArray {

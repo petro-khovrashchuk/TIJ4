@@ -1,10 +1,8 @@
-//:Initialization&Cleanup Ex.22
-
 /**
  * Exercise 22: (2) Write a switch statement for the enum in the previous example. For each case, output a description
  * of that particular currency.
  *
- * Created by Petr on 17/02/2016.
+ * Created by Petro Khovrashchuk on 17/02/2016.
  */
 
 public enum TheLeastValuableSixTypesPaperCurrency {
@@ -24,8 +22,7 @@ public enum TheLeastValuableSixTypesPaperCurrency {
 
     public static void main(String[] args) {
         for (TheLeastValuableSixTypesPaperCurrency val : TheLeastValuableSixTypesPaperCurrency.values()) {
-            System.out.print(val + " - " + val.ordinal() + " : " + val.describe() + "\n");
-
+            System.out.print(val + " - " + (val.ordinal()+1) + " : " + val.describe() + "\n");
         }
     }
 }
