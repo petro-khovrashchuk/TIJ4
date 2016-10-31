@@ -1,5 +1,3 @@
-//:Access Control Ex.3
-
 import static debug.ClassOfDebugAndDebugoff.*;  //Debug package prints out the message that's been sent.
 
 /**
@@ -12,6 +10,6 @@ import static debug.ClassOfDebugAndDebugoff.*;  //Debug package prints out the m
 
 public class ConditionalCompilationEffectDebug {
     public static void main(String[] args) {
-        debug("Print this babe out ;)");
+        debug("Print this baby out ;)");
     }
 }

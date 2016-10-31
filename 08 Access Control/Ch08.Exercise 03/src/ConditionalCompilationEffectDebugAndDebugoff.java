@@ -1,5 +1,3 @@
-//:Access Control Ex.3
-
 import static debug.ClassOfDebugAndDebugoff.*;  //debug package prints out the message that's been sent.
 import static debugoff.ClassOfDebugAndDebugoff.*;   //debugoff package's method don't have an Argument.
 
@@ -8,15 +6,15 @@ import static debugoff.ClassOfDebugAndDebugoff.*;   //debugoff package's method 
  * first version displays its String argument to the console, the second does nothing. Use a static import line to
  * import the class into a test program, and demonstrate the conditional compilation effect.
  *
- * Created by Petr on 18/02/2016.
+ * Created by Petro Khovrashchuk on 18/02/2016.
  */
 
 public class ConditionalCompilationEffectDebugAndDebugoff { /* Left this class to show that if methods from different
-                                                             * packages have different arguments list we can use both
+                                                             * packages have different parameter signature we can use both
                                                              * methods and import both packages without specifying the
                                                              * names. No clashes will occur. */
     public static void main(String[] args) {
         debug();
-        debug("Print this babe out ;)");
+        debug("Print this baby out ;)");
     }
 }
