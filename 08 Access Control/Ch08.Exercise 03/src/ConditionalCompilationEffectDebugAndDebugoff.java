@@ -1,5 +1,5 @@
-import static debug.ClassOfDebugAndDebugoff.*;  //debug package prints out the message that's been sent.
-import static debugoff.ClassOfDebugAndDebugoff.*;   //debugoff package's method don't have an Argument.
+import static debug.ClassOfDebugAndDebugoff.*; // Debug package prints out the message that's been sent.
+import static debugoff.ClassOfDebugAndDebugoff.*; // Debugoff package's method doesn't have an Argument.
 
 /**
  * Exercise 3: (2) Create two packages: debug and debugoff, containing an identical class with a debug( ) method. The
@@ -9,10 +9,10 @@ import static debugoff.ClassOfDebugAndDebugoff.*;   //debugoff package's method 
  * Created by Petro Khovrashchuk on 18/02/2016.
  */
 
-public class ConditionalCompilationEffectDebugAndDebugoff { /* Left this class to show that if methods from different
-                                                             * packages have different parameter signature we can use both
-                                                             * methods and import both packages without specifying the
-                                                             * names. No clashes will occur. */
+public class ConditionalCompilationEffectDebugAndDebugoff { /* Created this class to show that if methods from different
+                                                             * packages have different parameter signature we can use
+                                                             * both methods and import both packages without specifying
+                                                             * the names. No clashes will occur. */
     public static void main(String[] args) {
         debug();
         debug("Print this baby out ;)");
