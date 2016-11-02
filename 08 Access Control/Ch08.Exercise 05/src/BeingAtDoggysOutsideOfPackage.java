@@ -1,4 +1,3 @@
-//:Access Control Ex.5
 import DoggysHouse.Dog;
 
 /**
@@ -6,7 +5,7 @@ import DoggysHouse.Dog;
  * an object of this class and see what kind of compiler messages you get when you try to access all the class members.
  * Be aware that classes in the same directory are part of the “default” package.
  *
- * Created by Petr on 22/02/2016.
+ * Created by Petro Khovrashchuk on 22/02/2016.
  */
 
 public class BeingAtDoggysOutsideOfPackage {
