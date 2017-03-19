@@ -1,5 +1,3 @@
-//:Initialization&Cleanup Ex.21
-
 /**
  * Exercise 21: (1) Create an enum of the least-valuable six types of paper currency. Loop through the values( ) and
  * print each value and its ordinal( ).
@@ -12,7 +10,7 @@ public enum TheLeastValuableSixTypesPaperCurrency {
 
     public static void main(String[] args) {
         for (TheLeastValuableSixTypesPaperCurrency val : TheLeastValuableSixTypesPaperCurrency.values()) {
-            System.out.println(val + " - " + val.ordinal());
+            System.out.println(val + " - " + (val.ordinal()+1));
         }
     }
 }

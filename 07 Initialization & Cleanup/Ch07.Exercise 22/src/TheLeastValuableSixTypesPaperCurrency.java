@@ -22,8 +22,7 @@ public enum TheLeastValuableSixTypesPaperCurrency {
 
     public static void main(String[] args) {
         for (TheLeastValuableSixTypesPaperCurrency val : TheLeastValuableSixTypesPaperCurrency.values()) {
-            System.out.print(val + " - " + val.ordinal() + " : " + val.describe() + "\n");
-
+            System.out.print(val + " - " + (val.ordinal()+1) + " : " + val.describe() + "\n");
         }
     }
 }

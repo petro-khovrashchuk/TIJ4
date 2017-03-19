@@ -1,12 +1,4 @@
 package furniture;
-//:furniture
-//:Access Control Ex.4
-
-/**
- * Exercise 4: (2) Show that protected methods have package access but are not public.
- *
- * Created by Petr on 22/02/2016.
- */
 
 public class Table {
     protected String type;

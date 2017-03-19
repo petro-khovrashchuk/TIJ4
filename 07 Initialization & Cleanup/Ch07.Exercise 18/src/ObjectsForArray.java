@@ -15,5 +15,4 @@ public class ObjectsForArray {
             insArr[i] = new ObjectsForArray(Integer.toString(i+10));
         }
     }
-
 }
