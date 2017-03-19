@@ -1,17 +1,15 @@
-//:Initialization&Cleanup Ex.22
-
 /**
  * Exercise 22: (2) Write a switch statement for the enum in the previous example. For each case, output a description
  * of that particular currency.
  *
- * Created by Petr on 17/02/2016.
+ * Created by Petro Khovrashchuk on 17/02/2016.
  */
 
 public enum TheLeastValuableSixTypesPaperCurrency {
     ONE_UAH, TWO_UAH, FIVE_UAH, TEN_UAH, TWENTY_UAH, FIFTY_UAH;
 
     String describe() {
-        switch (this) {
+        switch (this) { //TODO: Why this?
             case ONE_UAH : return "Vladimir the Great";
             case TWO_UAH : return "Yaroslav the Wise";
             case FIVE_UAH: return "Bohdan Khmelnytsky";

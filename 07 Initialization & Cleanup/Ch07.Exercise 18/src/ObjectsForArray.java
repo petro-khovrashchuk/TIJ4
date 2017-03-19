@@ -1,9 +1,7 @@
-//:Initialization&Cleanup Ex.17
-
 /**
  * Exercise 18: (1) Complete the previous exercise by creating objects to attach to the array of references.
  *
- * Created by Petr on 16/02/2016.
+ * Created by Petro Khovrashchuk on 16/02/2016.
  */
 
 public class ObjectsForArray {
